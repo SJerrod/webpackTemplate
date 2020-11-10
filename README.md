@@ -49,6 +49,8 @@ _jstyrk@citadel.edu_
 - webpack-cli
 - webpack-dev-server
 - popper.js
+- jest
+- babel
 
 ### License
 
