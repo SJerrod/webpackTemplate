@@ -51,6 +51,7 @@ _jstyrk@citadel.edu_
 - popper.js
 - jest
 - babel
+- dotenv
 
 ### License
 
